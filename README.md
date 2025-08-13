@@ -10,13 +10,13 @@ Muestra productos desde **MySQL (XAMPP)**, incluye **panel de administración** 
 ## 📸 Vista previa
 
 ### Panel de Administración
-![Admin Home](docs/admin-home.png)
+![Admin Home](docs/admin-home.jpeg)
 
 ### Crear producto
-![Crear Producto](docs/admin-create.png)
+![Crear Producto](docs/admin-create.jpeg)
 
 ### Tienda (Home)
-![Tienda Home](docs/store-home.png)
+![Tienda Home](docs/store-home.jpeg)
 
 ---
 
